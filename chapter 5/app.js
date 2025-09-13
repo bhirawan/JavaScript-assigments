@@ -128,14 +128,6 @@ document.write("<br />")
 document.write(`4 X ${_num} =  ${4*_num}`)
 
 
-
-
-
-
-
-
-
-
 // 6. The Temperature Converter: It’s hot out! Let’s make a
 // converter based on the steps here.
 // a. Store a Celsius temperature into a variable.
@@ -232,7 +224,7 @@ document.write(result)
 document.write("<h1>Age Calculator:</h1>")
 
 let currentYear = 2025;
-let birthYear = 2000;
+let birthYear = 1993;
 
 let myAge = (currentYear - birthYear);
 let actualAge = (myAge -1);
